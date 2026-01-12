@@ -172,30 +172,6 @@ Daily Routine:
 <tr>
 <td width="50%">
 
-<h3 align="center">🛍️ Ecommerce Management System</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Ecommerce management animation">
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  
-  **Status:** 🟢 Active
-  
-  End-to-end ecommerce management platform with inventory tracking, order workflows, and role-based dashboards.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="https://github.com/Mosabbir-Sadik/ecommerce-management-system">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
-
-</td>
-<td width="50%">
-
 <h3 align="center">🎨 Portfolio Website</h3>
 
 <div align="center">
@@ -241,6 +217,30 @@ Daily Routine:
   <a href="#">
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
   </a>
+
+  <h3 align="center">🛍️ E-Commerce Order Management System</h3>
+
+  <div align="center">
+    <img src="https://media.giphy.com/media/j5QcmXoFWl0CWDxBps/giphy.gif" width="400" alt="Shopping cart animation">
+  
+    ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  
+    **Status:** ✅ Completed
+  
+    Console-based order management built in C featuring product catalog, order tracking, and receipt generation.
+    <br><br>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview coming soon" />
+    </a>
+    <a href="https://github.com/Mosabbir-Sadik/E-Commerce-Order-Management-System">
+      <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+    </a>
+  </div>
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
 </div>
 
 </td>
