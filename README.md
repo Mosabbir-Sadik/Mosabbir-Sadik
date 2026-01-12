@@ -172,6 +172,30 @@ Daily Routine:
 <tr>
 <td width="50%">
 
+<h3 align="center">🛍️ Ecommerce Management System</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Ecommerce management animation">
+  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  
+  **Status:** 🟢 Active
+  
+  End-to-end ecommerce management platform with inventory tracking, order workflows, and role-based dashboards.
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
+  </a>
+  <a href="https://github.com/Mosabbir-Sadik/ecommerce-management-system">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+  </a>
+</div>
+
+</td>
+<td width="50%">
+
 <h3 align="center">🎨 Portfolio Website</h3>
 
 <div align="center">
@@ -184,9 +208,18 @@ Daily Routine:
   **Status:** 🔨 In Progress
   
   Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+  </a>
 </div>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">🧮 Calculator App</h3>
@@ -201,11 +234,16 @@ Daily Routine:
   **Status:** ✅ Completed
   
   Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+  </a>
 </div>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h3 align="center">📝 Todo Application</h3>
@@ -220,9 +258,18 @@ Daily Routine:
   **Status:** ✅ Completed
   
   Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
+  <br><br>
+  <a href="https://todo-application-beta.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
+  </a>
+  <a href="https://github.com/Mosabbir-Sadik/Todo-Application">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+  </a>
 </div>
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 <h3 align="center">🎮 Problem Solving</h3>
@@ -237,6 +284,28 @@ Daily Routine:
   **Status:** 🟢 Active
   
   Collection of DSA solutions covering arrays, strings, sorting, recursion, and OOP concepts.
+  <br><br>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
+  </a>
+</div>
+
+</td>
+<td width="50%">
+
+<h3 align="center">📦 More Projects</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="More projects animation">
+  
+  Explore additional experiments, UI concepts, and mini-tools as they roll out.
+  <br><br>
+  <a href="https://github.com/Mosabbir-Sadik">
+    <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repos button" />
+  </a>
 </div>
 
 </td>
@@ -451,13 +520,13 @@ Development Approach:
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="mailto:mosabbir.sadik.personal@gmail.com">
+<a href="mailto:musabbirsadikprince@gmail.com">
 <img src="https://img.icons8.com/fluency/96/000000/gmail-new.png" width="65"/>
 <br><b>Gmail</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.linkedin.com/in/mosabbir-sadik">
+<a href="https://www.linkedin.com/in/md-mosabbir-sadik-b19747211">
 <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="65"/>
 <br><b>LinkedIn</b>
 </a>
@@ -469,13 +538,13 @@ Development Approach:
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.facebook.com/mosabbir.sadik">
+<a href="https://www.facebook.com/share/1AfvmeTmVW/">
 <img src="https://img.icons8.com/fluency/96/000000/facebook-new.png" width="65"/>
 <br><b>Facebook</b>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.instagram.com/mosabbir.sadik">
+<a href="https://www.instagram.com/musabbir_sadik_?igsh=amV0NTM4cmxjMGVn">
 <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="65"/>
 <br><b>Instagram</b>
 </a>
@@ -487,11 +556,11 @@ Development Approach:
 
 ### 📬 Quick Contact
 
-<a href="mailto:mosabbir.sadik.personal@gmail.com">
-<img src="https://img.shields.io/badge/Email-mosabbir.sadik.personal@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:musabbirsadikprince@gmail.com">
+<img src="https://img.shields.io/badge/Email-musabbirsadikprince@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mosabbir-sadik">
+<a href="https://www.linkedin.com/in/md-mosabbir-sadik-b19747211">
 <img src="https://img.shields.io/badge/LinkedIn-Md.%20Mosabbir%20Sadik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -511,7 +580,7 @@ Looking For:
   - Mentorship
 
 Contact:
-  Email: mosabbir.sadik.personal@gmail.com
+  Email: musabbirsadikprince@gmail.com
   Location: Dhaka, Bangladesh 🇧🇩
   Timezone: GMT+6 (Asia/Dhaka)
   Response Time: < 48 hours
