@@ -11,26 +11,26 @@
 <br>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://github.com/Mosabbir-Sadik)
-<h3 align="center">📝 Todo Application</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mosabbir-sadik-b19747211)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabbirsadikprince@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mosabbir-Sadik)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AfvmeTmVW/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musabbir_sadik_?igsh=amV0NTM4cmxjMGVn)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** ✅ Completed
-  
-  Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
-  <br><br>
-  <a href="https://todo-application-beta.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="https://github.com/Mosabbir-Sadik/Todo-Application">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mosabbir-Sadik&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Mosabbir-Sadik?style=for-the-badge&color=00d9ff)
+![GitHub stars](https://img.shields.io/github/stars/Mosabbir-Sadik?style=for-the-badge&color=00d9ff)
+
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt="about"/> About Me
+
 <div>
   
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding gif" />
@@ -172,30 +172,6 @@ Daily Routine:
 <tr>
 <td width="50%">
 
-<h3 align="center">🛍️ Ecommerce Management System</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Ecommerce management animation">
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  
-  **Status:** � Active
-  
-  End-to-end ecommerce management platform with inventory tracking, order workflows, and role-based dashboards.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="https://github.com/Mosabbir-Sadik/ecommerce-management-system">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
-
-</td>
-<td width="50%">
-
 <h3 align="center">🎨 Portfolio Website</h3>
 
 <div align="center">
@@ -208,18 +184,14 @@ Daily Routine:
   **Status:** 🔨 In Progress
   
   Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
+
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repo coming soon"/>
+  </div>
 </div>
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 <h3 align="center">🧮 Calculator App</h3>
@@ -234,40 +206,42 @@ Daily Routine:
   **Status:** ✅ Completed
   
   Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
 
-</td>
-<td width="50%">
-
-<h3 align="center">🛍️ Ecommerce Management System</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Ecommerce management animation">
-  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  
-  **Status:** ✅ Completed
-  
-  Console-based ecommerce order management built in C with inventory, orders, and basic reporting.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="https://github.com/Mosabbir-Sadik/E-Commerce-Order-Management-System">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Calculator live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Calculator repo coming soon"/>
+  </div>
 </div>
 
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+<h3 align="center">📝 Todo Application</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  
+  **Status:** ✅ Completed
+  
+  Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
+
+  <div>
+    <a href="https://todo-application-beta.vercel.app/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Todo live preview"/>
+    </a>
+    <a href="https://github.com/Mosabbir-Sadik/Todo-Application" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todo GitHub repository"/>
+    </a>
+  </div>
+</div>
+
+</td>
 <td width="50%">
 
 <h3 align="center">🎮 Problem Solving</h3>
@@ -282,28 +256,37 @@ Daily Routine:
   **Status:** 🟢 Active
   
   Collection of DSA solutions covering arrays, strings, sorting, recursion, and OOP concepts.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
+
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Problem solving live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Problem solving repo coming soon"/>
+  </div>
 </div>
 
 </td>
-<td width="50%">
+</tr>
+<tr>
+<td colspan="2">
 
-<h3 align="center">📦 More Projects</h3>
+<h3 align="center">🛒 Ecommerce Management System</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="More projects animation">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:0d1117&height=120&section=header&text=Ecommerce%20Management%20System&fontColor=ffffff&fontSize=32&fontAlignY=70" width="100%" alt="Ecommerce Management System banner"/>
   
-  Explore additional experiments, UI concepts, and mini-tools as they roll out.
-  <br><br>
-  <a href="https://github.com/Mosabbir-Sadik">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repos button" />
-  </a>
+  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  
+  **Status:** 🟡 In Design & Development
+  
+  Commerce dashboard with product, inventory, order, and customer management, featuring role-based access, analytics, and smooth admin workflows.
+
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Ecommerce live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Ecommerce repo coming soon"/>
+  </div>
 </div>
 
 </td>
