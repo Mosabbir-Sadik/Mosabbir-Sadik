@@ -15,7 +15,6 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musabbirsadikprince@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mosabbir-Sadik)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AfvmeTmVW/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/musabbir_sadik_?igsh=amV0NTM4cmxjMGVn)
 
 <br>
 
@@ -168,36 +167,9 @@ Daily Routine:
 
 <div align="center">
 
-<div>
-
-<h3 align="center">📝 Todo Application</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** ✅ Completed
-  
-  Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
-
-  <div>
-    <a href="https://todo-application-beta.vercel.app/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Todo live preview"/>
-    </a>
-    <a href="https://github.com/Mosabbir-Sadik/Todo-Application" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Todo GitHub repository"/>
-    </a>
-  </div>
-</div>
-
-</div>
-
-<br><hr width="80%"><br>
-
-<div>
+<table>
+<tr>
+<td width="50%">
 
 <h3 align="center">🎨 Portfolio Website</h3>
 
@@ -207,22 +179,17 @@ Daily Routine:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](#)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
   
   **Status:** 🔨 In Progress
   
   Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repo coming soon"/>
-  </div>
 </div>
 
-</div>
-
-<br><hr width="80%"><br>
-
-<div>
+</td>
+<td width="50%">
 
 <h3 align="center">🧮 Calculator App</h3>
 
@@ -232,22 +199,39 @@ Daily Routine:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](#)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
   
   **Status:** ✅ Completed
   
   Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Calculator live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Calculator repo coming soon"/>
-  </div>
 </div>
 
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<h3 align="center">� Todo Application</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](https://todo-application-beta.vercel.app/)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mosabbir-Sadik/Todo-Application)
+  
+  **Status:** ✅ Completed
+  
+  Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
 </div>
 
-<br><hr width="80%"><br>
-
-<div>
+</td>
+<td width="50%">
 
 <h3 align="center">🎮 Problem Solving</h3>
 
@@ -257,18 +241,18 @@ Daily Routine:
   ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](#)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
   
   **Status:** 🟢 Active
   
   Collection of DSA solutions covering arrays, strings, sorting, recursion, and OOP concepts.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Problem solving live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Problem solving repo coming soon"/>
-  </div>
 </div>
 
-</div>
+</td>
+</tr>
+</table>
 
 </div>
 
