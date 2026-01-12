@@ -316,7 +316,7 @@ Daily Routine:
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mosabbir-Sadik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&dates=c9d1d9" width="75%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mosabbir-Sadik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%"/>
 
 <br>
 
