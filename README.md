@@ -180,8 +180,8 @@ Daily Routine:
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](#)
-  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](https://my-protfolio-dxvb.vercel.app/)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mosabbir-Sadik/My-Protfolio)
   
   **Status:** 🔨 In Progress
   
@@ -200,8 +200,8 @@ Daily Routine:
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](#)
-  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](#)
+  [![Live Preview](https://img.shields.io/badge/Live-Preview-00d9ff?style=flat-square&logo=vercel&logoColor=white)](https://calculator-application-6v3y.vercel.app/)
+  [![GitHub Repo](https://img.shields.io/badge/Code-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://calculator-application-7gww.vercel.app/)
   
   **Status:** ✅ Completed
   
