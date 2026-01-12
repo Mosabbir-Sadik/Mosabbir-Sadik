@@ -168,55 +168,7 @@ Daily Routine:
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🎨 Portfolio Website</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** 🔨 In Progress
-  
-  Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repo coming soon"/>
-  </div>
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧮 Calculator App</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** ✅ Completed
-  
-  Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Calculator live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Calculator repo coming soon"/>
-  </div>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
+<div>
 
 <h3 align="center">📝 Todo Application</h3>
 
@@ -241,8 +193,61 @@ Daily Routine:
   </div>
 </div>
 
-</td>
-<td width="50%">
+</div>
+
+<br><hr width="80%"><br>
+
+<div>
+
+<h3 align="center">🎨 Portfolio Website</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  
+  **Status:** 🔨 In Progress
+  
+  Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
+
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repo coming soon"/>
+  </div>
+</div>
+
+</div>
+
+<br><hr width="80%"><br>
+
+<div>
+
+<h3 align="center">🧮 Calculator App</h3>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  
+  **Status:** ✅ Completed
+  
+  Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
+
+  <div>
+    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Calculator live preview coming soon"/>
+    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Calculator repo coming soon"/>
+  </div>
+</div>
+
+</div>
+
+<br><hr width="80%"><br>
+
+<div>
 
 <h3 align="center">🎮 Problem Solving</h3>
 
@@ -263,35 +268,7 @@ Daily Routine:
   </div>
 </div>
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<h3 align="center">🛒 Ecommerce Management System</h3>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:0d1117&height=120&section=header&text=Ecommerce%20Management%20System&fontColor=ffffff&fontSize=32&fontAlignY=70" width="100%" alt="Ecommerce Management System banner"/>
-  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  
-  **Status:** 🟡 In Design & Development
-  
-  Commerce dashboard with product, inventory, order, and customer management, featuring role-based access, analytics, and smooth admin workflows.
-
-  <div>
-    <img src="https://img.shields.io/badge/Live%20Preview-Coming%20Soon-lightgrey?style=for-the-badge&logo=vercel&logoColor=white" alt="Ecommerce live preview coming soon"/>
-    <img src="https://img.shields.io/badge/GitHub%20Repo-Coming%20Soon-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Ecommerce repo coming soon"/>
-  </div>
 </div>
-
-</td>
-</tr>
-</table>
 
 </div>
 
