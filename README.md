@@ -316,32 +316,7 @@ Daily Routine:
 
 <br>
 
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mosabbir-Sadik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://streak-stats.demolab.com?user=Mosabbir-Sadik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="100%"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosabbir-Sadik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mosabbir-Sadik&theme=tokyonight&utcOffset=6" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=Mosabbir-Sadik&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="75%"/>
 
 <br>
 
