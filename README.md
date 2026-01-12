@@ -6,7 +6,11 @@
 
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Clean+UI+%2B+Clean+Code+%3D+Better+Software+%E2%9C%A8;Building+Modern+Web+Interfaces+%F0%9F%92%BB;Mastering+Frontend+%7C+Learning+Full-Stack+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React+%E2%9A%A1;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Java+%E2%80%A2+Problem+Solving+%F0%9F%A7%A0;Daffodil+International+University+%F0%9F%87%A7%F0%9F%87%A9)](https://git.io/typing-svg)
 
+<br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://github.com/Mosabbir-Sadik)
 <h3 align="center">📝 Todo Application</h3>
 
 <div align="center">
@@ -27,125 +31,123 @@
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
   </a>
 </div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🎨 Portfolio Website</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400">
+<div>
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** 🔨 In Progress
-  
-  Personal portfolio showcasing projects, skills, and achievements with modern design and smooth animations.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding gif" />
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<div align="left" style="padding-right: 420px;">
 
-<h3 align="center">🧮 Calculator App</h3>
+### 👨‍💻 Who Am I?
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
-  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  
-  **Status:** ✅ Completed
-  
-  Feature-rich calculator with scientific functions, keyboard support, and elegant UI design.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">🛍️ Ecommerce Management System</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Ecommerce management animation">
-  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  
-  **Status:** ✅ Completed
-  
-  Order management system covering inventory, invoicing, and fulfillment workflows, built fully in C.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="https://github.com/Mosabbir-Sadik/E-Commerce-Order-Management-System">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<h3 align="center">🎮 Problem Solving</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-4485-4951-b5c9-b96d9d4c3f4e.gif" width="400">
-  
-  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-  
-  **Status:** 🟢 Active
-  
-  Collection of DSA solutions covering arrays, strings, sorting, recursion, and OOP concepts.
-  <br><br>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
-  </a>
-</div>
-
-</td>
-<td width="50%">
-
-<h3 align="center">📦 More Projects</h3>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="More projects animation">
-  
-  Explore additional experiments, UI concepts, and mini-tools as they roll out.
-  <br><br>
-  <a href="https://github.com/Mosabbir-Sadik">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repos button" />
-  </a>
-</div>
-
-</td>
-</tr>
+<table border="0">
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/user.png" width="25"/></td>
+    <td><b>Name:</b> Md. Mosabbir Sadik</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/graduation-cap.png" width="25"/></td>
+    <td><b>Education:</b> B.Sc. in Computer Science & Engineering</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/university.png" width="25"/></td>
+    <td><b>University:</b> Daffodil International University</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/marker.png" width="25"/></td>
+    <td><b>Location:</b> Dhaka, Bangladesh 🇧🇩</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/code.png" width="25"/></td>
+    <td><b>Role:</b> Frontend Developer in Progress</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/goal.png" width="25"/></td>
+    <td><b>Career Goal:</b> Full-Stack Web Developer</td>
+  </tr>
+  <tr>
+    <td><img src="https://img.icons8.com/color/48/000000/lightning-bolt.png" width="25"/></td>
+    <td><b>Belief:</b> <i>"Clean UI + Clean Code = Better Software"</i></td>
+  </tr>
 </table>
 
+<br>
+
+### 🎯 What I Do
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50">
+
+- 🌐 Building **responsive** and **beautiful** web interfaces
+- 💡 Solving complex problems with **Data Structures & Algorithms**
+- 🎨 Creating **clean** and **maintainable** code
+- 📚 Constantly learning **new technologies** and **frameworks**
+- 🚀 Working towards becoming a **Full-Stack Developer**
+- 🤝 Open to **collaborations** and **learning opportunities**
+
 </div>
+
+</div>
+
+<br clear="all"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> Current Focus
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/> Learning Path
+
+```yaml
+Frontend Development:
+  ████████████████░░  80%
+  - Mastering JavaScript
+  - Building with React
+  - Responsive Design
+
+Problem Solving:
+  ███████████████░░░  75%
+  - Data Structures
+  - Algorithms
+  - LeetCode Practice
+
+Backend Basics:
+  ████████░░░░░░░░░░  40%
+  - Node.js
+  - Express.js
+  - Databases
+
+Full-Stack Journey:
+  ██████░░░░░░░░░░░░  30%
+  - RESTful APIs
+  - Authentication
+  - Deployment
+```
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"/> Current Goals
+
+```yaml
+2026 Technical Goals:
+  ✅ Master JavaScript & ES6+
+  ✅ Learn React & Next.js
+  🔄 Build 10+ Projects
+  🔄 Contribute to Open Source
+  📝 Learn Backend Development
+  📝 Master TypeScript
+  📝 Learn Cloud Deployment
+
+Daily Routine:
+  ☕ 08:00 - Coffee & Planning
+  💻 09:00 - Code & Learn
+  🧠 12:00 - Problem Solving
   🔨 14:00 - Build Projects
   📚 18:00 - Study & Research
   🌱 20:00 - Practice & Review
@@ -244,23 +246,21 @@
 </td>
 <td width="50%">
 
-<h3 align="center">📝 Todo Application</h3>
+<h3 align="center">🛍️ Ecommerce Management System</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" alt="Ecommerce management animation">
   
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
   
   **Status:** ✅ Completed
   
-  Interactive todo list with CRUD operations, local storage, filtering, and clean interface.
+  Console-based ecommerce order management built in C with inventory, orders, and basic reporting.
   <br><br>
-  <a href="https://todo-application-beta.vercel.app/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Live%20Preview-00d9ff?style=for-the-badge&logoColor=white" alt="Live preview button" />
   </a>
-  <a href="https://github.com/Mosabbir-Sadik/Todo-Application">
+  <a href="https://github.com/Mosabbir-Sadik/E-Commerce-Order-Management-System">
     <img src="https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repo button" />
   </a>
 </div>
